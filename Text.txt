@@ -9,3 +9,4 @@ This is 4th Line
 This is 5th Line
 sfduihsdfkjhjk
 Added to check new line differance
+[TESTINGGIT-BR] This is the new statement included in file.
